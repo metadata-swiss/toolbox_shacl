@@ -8,5 +8,5 @@ requests==2.34.2
 python-dotenv==1.2.3
 urllib3==2.7.0
 gunicorn==23.0.0
-click==8.4.2
+click==8.5.0
 Flask-Limiter==3.11.0
